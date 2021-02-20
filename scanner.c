@@ -96,7 +96,7 @@ static TokenType identifierType() {
 }
 
 static bool isAtEnd() {
-  return scanner.current == '\0';
+  return *scanner.current == '\0';
 }
 
 static char peek() {
