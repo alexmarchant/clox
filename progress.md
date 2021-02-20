@@ -1,1 +1,1 @@
-finished http://craftinginterpreters.com/compiling-expressions.html#parsing-infix-expressions
+http://craftinginterpreters.com/strings.html
